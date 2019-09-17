@@ -17,7 +17,7 @@ title: Blog by Brayden Tang
 name: Brayden Tang
 description: 
   Stuff on Data Science.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog"
 github_username:  braydentang1
 
 # jekyll-paginate configuration
